@@ -1,2 +1,3 @@
 # CRUD-generator
-Prática para treinar lógica. sistema é responsável por gerar tabelas personalizadas
+Prática para treinar lógica. 
+Sistema é responsável por gerar tabelas personalizadas.
